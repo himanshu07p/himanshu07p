@@ -35,13 +35,3 @@ Feel free to email me at [himanshu07p143@gmail.com](mailto:himanshu07p143@gmail.
 
 Thank you for visiting my profile! 🌕
 
-
-
-## 🛠️ Languages and Tools
-
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=white)
-![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=flat-square&logo=Arduino&logoColor=white)
-![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat-square&logo=Flutter&logoColor=white)
-![Blender](https://img.shields.io/badge/-Blender-F5792A?style=flat-square&logo=Blender&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/-Matplotlib-11557c?style=flat-square&logo=Python&logoColor=white)
-```
