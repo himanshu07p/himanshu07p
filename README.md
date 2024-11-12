@@ -27,7 +27,7 @@ I'm looking to collaborate on **Digital Circuit Design**! If you share similar i
 </div>
 
 ## 📫 How to Reach Me
-Feel free to email me at [himanshu07p143@gmail.com](mailto:himanshu07p143@icloud.com).
+Feel free to email me at [himanshu07p143@icloud.com](mailto:himanshu07p143@icloud.com).
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=himanshu07p&label=Profile%20views&color=0e75b6&style=flat" alt="himanshu07p" /> </p>
 
 
