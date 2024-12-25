@@ -2,7 +2,7 @@
 
 
 ## 🌱 About Me
-I'm currently working on **Digital Circuits** and pursuing a **BS in Data Science** from **IITM**. I have a keen interest in **Quantum Physics**, **Astrophysics**, **Electronics**, and **Large Language Models (LLM)**.
+I'm currently working on **Python Project** and pursuing a **BS in Data Science** from **IITM**. I have a keen interest in **Quantum Physics**, **Astrophysics**, **Electronics**, and **Large Language Models (LLM)**.
 
 ## 📚 Learning
 - **Blender** 
