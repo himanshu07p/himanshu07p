@@ -8,7 +8,7 @@ I'm currently working on **Digital Circuits** and pursuing a **BS in Data Scienc
 - **Blender** 
 - **Matplotlib** 
 ## 👯 Collaboration
-I'm looking to collaborate on **Digital Circuit Design**! If you share similar interests or projects, feel free to reach out!
+I'm looking to collaborate on **Python Project**! If you share similar interests or projects, feel free to reach out!
 
 ## 💬 Ask Me About
 - Python 🐍
