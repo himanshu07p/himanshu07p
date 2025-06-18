@@ -15,8 +15,7 @@
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
      About Me
   </h2>
-  <img align="right" alt="Coding" width="300" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif">
-</div>
+  
 
 - 🎓 I am currently pursuing a **Bachelor of Science in Data Science** from **IITM**. My academic journey has equipped me with a solid foundation in data analysis, machine learning, and statistical modeling.
 - 💡 I have a deep passion for **Quantum Physics** and **Astrophysics**. These fields fascinate me because they push the boundaries of our understanding of the universe.
@@ -83,13 +82,19 @@
      GitHub Analytics
   </h2>
   
-  <img src="https://github-profile-trophy.vercel.app/?username=himanshu07p&theme=tokyonight&no-frame=true&row=1&&margin-w=30&no-bg=true" alt="Trophy" />
-  <br><br>
-  
-  <img src="https://github-readme-stats.vercel.app/api?username=himanshu07p&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="GitHub Stats" height="170" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=himanshu07p&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" height="170" />
-  
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=himanshu07p&theme=tokyo-night&hide_border=true&bg_color=0D1117" alt="Activity Graph" />
+  <p align="center">
+    <img src="https://github-profile-trophy.vercel.app/?username=himanshu07p&theme=tokyonight&no-frame=true&row=1&&margin-w=30&no-bg=true" alt="Trophy" />
+  </p>
+  <p align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=himanshu07p&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="GitHub Stats" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=himanshu07p&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" />
+  </p>
+  <p align="center">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=himanshu07p&theme=tokyo-night&hide_border=true&bg_color=0D1117" alt="Activity Graph" />
+  </p>
+  <p align="center">
+    <img src="https://raw.githubusercontent.com/himanshu07p/himanshu07p/main/github-contribution-grid-snake.svg" alt="snake eating my contributions" />
+  </p>
 </div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
@@ -100,15 +105,20 @@
     Let's Connect🤝 
   </h2>
   
-  <a href="mailto:himanshu07p143@icloud.com">
-    <img src="https://img.shields.io/badge/Email-himanshu07p143%40icloud.com-blue?style=for-the-badge&logo=mail.ru&logoColor=white&labelColor=1155ba&color=2962ff">
-  </a>
-  <a href="https://github.com/himanshu07p">
-    <img src="https://img.shields.io/badge/GitHub-himanshu07p-black?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117&color=1a1b27">
-  </a>
+  <p align="center">
+    <a href="https://github.com/himanshu07p">
+      <img src="https://img.shields.io/badge/GitHub-himanshu07p-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+    </a>
+    <a href="mailto:himanshu07p143@icloud.com">
+      <img src="https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+    </a>
+  </p>
 </div>
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%"/>
 </div>
+  </p>
+</div>
+
 
