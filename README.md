@@ -1,7 +1,8 @@
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=header&text=Himanshu%20Patel&fontSize=45&animation=fadeIn&fontAlignY=25&desc=Python%20Developer%20|%20Data%20Science%20Student&descSize=20&descAlignY=75&fontColor=fff" width="100%"/>
+<div align="center"- 🎓 I am currently pursuing a **Bachelor of Science in Data Science** from **IITM**. My academic journey has equipped me with a solid foundation in data analysis, machine learning, and statistical modeling.
+- 💻 I am passionate about **Web Development** and specialize in building modern, responsive web applications using **React**, **Next.js**, **TypeScript**, and **Tailwind CSS**. I enjoy creating seamless user experiences and scalable full-stack solutions.
+- 💡 I have a deep passion for **Quantum Physics** and **Astrophysics**. These fields fascinate me because they push the boundaries of our understanding of the universe.  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=header&text=Himanshu%20Patel&fontSize=45&animation=fadeIn&fontAlignY=25&desc=Python%20Developer%20|%20Web%20Developer%20|%20Data%20Science%20Student&descSize=20&descAlignY=75&fontColor=fff" width="100%"/>
 
-  <img src="https://readme-typing-svg.herokuapp.com?font=Roboto+Slab&size=30&duration=3000&pause=1000&color=3DABF5&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Himanshu+Patel+%F0%9F%91%8B;A+Passionate+Python+Developer+%F0%9F%90%8D;Learning+Data+Science+at+IITM+%F0%9F%93%9A" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Roboto+Slab&size=30&duration=3000&pause=1000&color=3DABF5&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Himanshu+Patel+%F0%9F%91%8B;A+Passionate+Python+Developer+%F0%9F%90%8D;Full-Stack+Web+Developer+%F0%9F%92%BB;Learning+Data+Science+at+IITM+%F0%9F%93%9A;Building+Amazing+Web+Experiences+%E2%9C%A8" alt="Typing SVG" />
   
   <br>
   
@@ -18,7 +19,8 @@
   
 
 - 🎓 I am currently pursuing a **Bachelor of Science in Data Science** from **IITM**. My academic journey has equipped me with a solid foundation in data analysis, machine learning, and statistical modeling.
-- 💡 I have a deep passion for **Quantum Physics** and **Astrophysics**. These fields fascinate me because they push the boundaries of our understanding of the universe.
+- � I am passionate about **Web Development** and specialize in building modern, responsive web applications using **React**, **Next.js**, **TypeScript**, and **Tailwind CSS**. I enjoy creating seamless user experiences and scalable full-stack solutions.
+- �💡 I have a deep passion for **Quantum Physics** and **Astrophysics**. These fields fascinate me because they push the boundaries of our understanding of the universe.
 - 🔬 My interests also extend to **Electronics** and **Large Language Models (LLMs)**. I enjoy working on projects that involve circuit design and exploring the capabilities of AI models.
 - 🎨 In my free time, I am mastering **Blender** and **Matplotlib**. Blender allows me to bring my creative ideas to life through 3D modeling, while Matplotlib helps me visualize complex data in an intuitive way.
 - 🌱 I am always eager to learn new technologies and improve my skills. I believe in continuous learning and staying updated with the latest advancements in the tech world.
@@ -36,13 +38,25 @@
     <tr>
       <td align="center" width="300">
         <h3 style="font-family: 'Source Code Pro', monospace;">Programming Languages</h3>
-        <img src="https://skillicons.dev/icons?i=python,html,css,js" /><br>
-        <sub>Python • HTML • CSS • JavaScript</sub>
+        <img src="https://skillicons.dev/icons?i=python,html,css,js,ts" /><br>
+        <sub>Python • HTML • CSS • JavaScript • TypeScript</sub>
       </td>
       <td align="center" width="300">
         <h3>Development Tools</h3>
         <img src="https://skillicons.dev/icons?i=vscode,pycharm,webstorm,git,ubuntu" /><br>
         <sub>VSCode • PyCharm • WebStorm • Git • Ubuntu</sub>
+      </td>
+    </tr>
+    <tr>
+      <td align="center" width="300">
+        <h3>Frameworks & Libraries</h3>
+        <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind" /><br>
+        <sub>React • Next.js • Tailwind CSS</sub>
+      </td>
+      <td align="center" width="300">
+        <h3>Cloud & Backend Services</h3>
+        <img src="https://skillicons.dev/icons?i=vercel,supabase" /><br>
+        <sub>Vercel • Supabase • Cloud Deployment</sub>
       </td>
     </tr>
     <tr>
@@ -53,8 +67,8 @@
       </td>
       <td align="center" width="300">
         <h3>Design & Creative Tools</h3>
-        <img src="https://skillicons.dev/icons?i=figma,blender,flutter,notion" /><br>
-        <sub>Figma UI/UX • Blender 3D • Flutter • Notion</sub>
+        <img src="https://skillicons.dev/icons?i=figma,blender,notion" /><br>
+        <sub>Figma UI/UX • Blender 3D • Notion</sub>
       </td>
     </tr>
   </table>
@@ -66,9 +80,10 @@
     <br>
     <div align="left" style="font-family: 'Source Code Pro', monospace;">
       
-    - **Programming**: `Advanced Python`, `Web Development (HTML/CSS/JS)`
+    - **Programming**: `Advanced Python`, `TypeScript/JavaScript`, `Web Development (HTML/CSS)`
+    - **Frontend**: `React.js`, `Next.js Framework`, `Tailwind CSS`, `Modern UI Development`
+    - **Backend & Cloud**: `Supabase Database`, `Vercel Deployment`, `Full-stack Development`
     - **Development**: `VSCode`, `PyCharm`, `WebStorm`, `Git Version Control`, `Ubuntu`
-    - **Frameworks**: `Flutter for Cross-platform Development`
     - **Design**: `UI/UX with Figma`, `3D Modeling with Blender`, `Notion for Documentation`
     - **Hardware**: `Arduino Programming`, `Electronics Prototyping`
   </details>
@@ -88,6 +103,9 @@
   <p align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=himanshu07p&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="GitHub Stats" />
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=himanshu07p&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" />
+  </p>
+  <p align="center">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=himanshu07p&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages" />
   </p>
   <p align="center">
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=himanshu07p&theme=tokyo-night&hide_border=true&bg_color=0D1117" alt="Activity Graph" />
