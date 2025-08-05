@@ -1,4 +1,4 @@
-name: Generate Snake
+name: Generate Snake Animation
 
 on:
   schedule:
@@ -6,9 +6,12 @@ on:
     - cron: "0 */12 * * *"
   # Allows you to run this workflow manually from the Actions tab
   workflow_dispatch:
+  # Run on every push to main branch
+  push:
+    branches: [ main ]
 
 jobs:
-  build:
+  generate:
     runs-on: ubuntu-latest
     permissions:
       contents: write
@@ -16,6 +19,7 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v4
         with:
+          token: ${{ secrets.GITHUB_TOKEN }}
           fetch-depth: 0
 
       - name: Generate snake animation
@@ -27,14 +31,22 @@ jobs:
             github-contribution-grid-snake-dark.svg?palette=github-dark&color_snake=#58a6ff&color_dots=#0d1117,#161b22,#21262d,#30363d,#656c76
             github-contribution-grid-snake-light.svg?palette=github-light&color_snake=#1a7f37&color_dots=#ebedf0,#9be9a8,#40c463,#30a14e,#216e39
 
-      - name: Setup Git
+      - name: Commit and push snake files
         run: |
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action"
-
-      - name: Pull latest changes and commit snake
-        run: |
-          git pull origin main --rebase || echo "No changes to pull"
+          
+          # Pull any remote changes first
+          git fetch origin main
+          git reset --hard origin/main
+          
+          # Add the snake files
           git add github-contribution-grid-snake*.svg
-          git diff --staged --quiet || git commit -m "🐍 Update snake animation"
-          git push origin main
+          
+          # Only commit if there are changes
+          if ! git diff --staged --quiet; then
+            git commit -m "🐍 Update snake animation"
+            git push origin main
+          else
+            echo "No changes to commit"
+          fi
