@@ -110,8 +110,17 @@
   <p align="center">
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=himanshu07p&theme=tokyo-night&hide_border=true&bg_color=0D1117" alt="Activity Graph" />
   </p>
+  
+  <h3 align="center" style="font-family: 'Source Code Pro', monospace; margin-top: 20px;">
+    🐍 Watch the Snake Eat My Contributions! 
+  </h3>
+  
   <p align="center">
-    <img src="https://raw.githubusercontent.com/himanshu07p/himanshu07p/main/github-contribution-grid-snake.svg" alt="snake eating my contributions" />
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/himanshu07p/himanshu07p/main/github-contribution-grid-snake-dark.svg" />
+      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/himanshu07p/himanshu07p/main/github-contribution-grid-snake-light.svg" />
+      <img alt="GitHub contribution grid snake animation" src="https://raw.githubusercontent.com/himanshu07p/himanshu07p/main/github-contribution-grid-snake.svg" />
+    </picture>
   </p>
 </div>
 
