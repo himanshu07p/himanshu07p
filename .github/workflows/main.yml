@@ -19,7 +19,7 @@ jobs:
         uses: platane/snk@v3
         with:
           github_user_name: ${{ github.repository_owner }}
-          outputs: |
+            outputs: |
               github-contribution-grid-snake.svg
               github-contribution-grid-snake-dark.svg?palette=github-dark
               github-contribution-grid-snake-light.svg?palette=github-light
@@ -28,4 +28,4 @@ jobs:
         uses: stefanzweifel/git-auto-commit-action@v4
         with:
           commit_message: "chore: update snake animation"
-            file_pattern: github-contribution-grid-snake*.svg
+         file_pattern: github-contribution-grid-snake*.svg
