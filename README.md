@@ -1,5 +1,5 @@
 <div align="center">
-# <img src="./image.png" alt="Banner" width="100%"/>
+# <img src="./image.jpg" alt="Banner" width="100%"/>
 
 # Himanshu Patel
 
@@ -59,14 +59,12 @@ Environment  : Ubuntu, Node.js
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/himanshu07p/himanshu07p/main/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/himanshu07p/himanshu07p/main/github-contribution-grid-snake-light.svg" />
-  <img alt="GitHub contribution grid snake animation" src="https://raw.githubusercontent.com/himanshu07p/himanshu07p/main/github-contribution-grid-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/himanshu07p/himanshu07p/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/himanshu07p/himanshu07p/output/github-contribution-grid-snake-light.svg" />
+  <img alt="GitHub contribution grid snake animation" src="https://raw.githubusercontent.com/himanshu07p/himanshu07p/output/github-contribution-grid-snake.svg" />
 </picture>
 
 </div>
-
----
 
 <div align="center">
 
